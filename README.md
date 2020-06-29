@@ -2,4 +2,4 @@
 
 Démarche à suivre pour installer OpenSTF sur Windows
 
-Buffon Georges - Mai 2020
+Buffon Georges & Laiyoeurn Samantha - Mai 2020
